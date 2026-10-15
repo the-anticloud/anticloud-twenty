@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "a7b4057817bb098f554c5626a19c3d5ae14b280b",
-   "url": "https://github.com/zurb/twentytwenty",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/twentyhq/twenty",
+   "head": "07ee7d28e6b03313009c899ab486f2dfeedad4de",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/zurb/twentytwenty"
   }
  }
 }
